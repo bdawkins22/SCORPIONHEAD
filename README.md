@@ -6,5 +6,5 @@ S C O R P I O N H E A D is a cyberpoem where:
 
 #How to Run
 1. Download or clone the repository
-2. Open the Terminal app on Mac (Command + Space, then type in "terminal") and navigate to the project folder (e.g., type "cd documents")
+2. Open Terminal on Mac (Command + Space, then type in "terminal") and navigate to the project folder (e.g., type "cd documents")
 3. Run the code (type "python 3 SCORPIONHEAD.py")
