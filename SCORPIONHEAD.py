@@ -199,8 +199,8 @@ print('             ')
 print('INITIATING SYSTEM SHUTDOWN...')
 print('             ')
 import sys
-time.sleep(1)
-sys.exit()
+time.sleep(3)
+clear_screen()
 
 
 
